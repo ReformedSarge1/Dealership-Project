@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "heffalump.db.elephantsql.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Car.Dealership.Project",
+            "database": "bxjjcspo",
+            "password": "9juoKnOdn_KeF3Hxp-NXwlqOQrSiXIo0",
+            "username": "bxjjcspo"
+        }
+    ]
+}
